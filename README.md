@@ -1,2 +1,2 @@
 # fastai_codealong
-Practicing the exercised
+Practicing the exercises from the book
